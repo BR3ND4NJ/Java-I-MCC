@@ -1,0 +1,36 @@
+Name: Cat Dog, Price: $200.00, Seat: 23B
+Name: Rat Lion, Price: $178.00, Seat: 15A
+Name: Tiger Snake, Price: $135.99, Seat: 6D
+Name: Rabbit Fox, Price: $210.77, Seat: 12E
+Name: Lion Bird, Price: $133.12, Seat: 1C
+Name: Cat Fox, Price: $133.12, Seat: 1D
+Name: Lion Robin, Price: $200.00, Seat: 23A
+Name: Cat Bird, Price: $154.11, Seat: 15C
+Name: Monkey Bear, Price: $191.22, Seat: 13B
+Name: Tiger Dog, Price: $133.11, Seat: 13C
+Name: Bear Fox, Price: $177.11, Seat: 12C
+Name: Robin Snake, Price: $200.00, Seat: 20B
+Name: Lion Bird, Price: $112.43, Seat: 20A
+Name: Robin Snake, Price: $200.11, Seat: 20C
+Name: Cat Dog, Price: $123.13, Seat: 20E
+Name: Sevon Koudaya, Price: $1,000.00, Seat: 20A
+
+Bear
+Bird
+Bird
+Bird
+Dog
+Dog
+Dog
+Fox
+Fox
+Fox
+Koudaya
+Lion
+Robin
+Snake
+Snake
+Snake
+
+The highest price is $1000.00
+Total cost of reservations is $3482.22

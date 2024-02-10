@@ -1,0 +1,4 @@
+Mickey Mouse 140.23 18 B
+Minnie Mouse 92 5 A
+Iron Man 68.15 21 E
+Snow White 33.1 3 C

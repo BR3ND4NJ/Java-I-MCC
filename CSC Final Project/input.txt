@@ -1,0 +1,15 @@
+Cat Dog 200 23 B
+Rat Lion 178 15 A
+Tiger Snake 135.99 6 D
+Rabbit Fox 210.77 12 E
+Lion Bird 133.12 1 C
+Cat Fox 133.12 1 D
+Lion Robin 200 23 A
+Cat Bird 154.11 15 C
+Monkey Bear 191.22 13 B
+Tiger Dog 133.11 13 C
+Bear Fox 177.11 12 C
+Robin Snake 200 20 B
+Lion Bird 112.43 20 A
+Robin Snake 200.11 20 C
+Cat Dog 123.13 20 E

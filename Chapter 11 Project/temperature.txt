@@ -1,0 +1,15 @@
+82.508
+30.002
+91.994
+78.008
+32
+98.798
+-1
+finish
+dishes
+animal
+chicken
+grapes
+brown
+stop
+45
